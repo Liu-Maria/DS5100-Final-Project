@@ -7,7 +7,7 @@ Monte Carlo Final Project Report
 Maria Liu
 
 
-Synopsis:
+Synopsis: The monte carlo project was meant to focus on coding based on certain statisically predictiable outcomes and testing us on how to manipulate the results to change those probabilities. A fair coin should have a fifty-fifty chance on landing on either side (even though in real life this is a hoax with physical coins being asymmetrical). Computers allow further exploration of weighing on side or the other more and seeing the results that come of it in fairly neatly packaged graphs and tables.
 
 
 Die Class
